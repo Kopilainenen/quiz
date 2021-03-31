@@ -27,8 +27,5 @@ function result () {
         score++;
     }
 
-    alert('Score:' +score)
-    document.write("Score is:"+score)
-
 
 }
