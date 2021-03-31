@@ -36,6 +36,7 @@
     border: 1px solid silver;
     padding: 10px;
     font-size: 30px;
+    cursor: pointer;
 }
 
 .question {
